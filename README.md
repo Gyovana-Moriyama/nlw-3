@@ -1,2 +1,2 @@
-# nlw-3
-Project of NLW-3 RocketSeat 
+# nlw-3 Rocketseat course
+A short project of a website application. 
